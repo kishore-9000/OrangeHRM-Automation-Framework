@@ -1,0 +1,14 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+test-output/
+Logs/*.log
+!Logs/.gitkeep
+Screenshots/*.png
+!Screenshots/.gitkeep
+Reports/*.html
+!Reports/.gitkeep
+.DS_Store
